@@ -11,10 +11,10 @@ Bu Proje DataFlowX için hazırlanan bir case-2 çalışmasıdır
 ### Proje Yapısı 
 client/<br/>
 ⊦src/<br/>
-⊦─ components/ # Bileşenler<br/>
-⊦─ pages/ # Sayfalar<br/>
-⊦─ routes/ # Sayfa yönlendirmeleri<br/>
-⊦─ hooks/ # Contextlerin bulunduğu klasör<br/>
+⊦- components/ # Bileşenler<br/>
+⊦- pages/ # Sayfalar<br/>
+⊦- routes/ # Sayfa yönlendirmeleri<br/>
+⊦- hooks/ # Contextlerin bulunduğu klasör<br/>
 
 ### Sayfalar
 - "Home": Anasayfa
